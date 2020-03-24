@@ -8,3 +8,4 @@ backend/package.json
 backend/knexfile.js
 package-lock.json
 package.json
+backend/src/database
