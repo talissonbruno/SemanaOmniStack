@@ -1,0 +1,11 @@
+notacao.txt
+node_modules/
+.DS_Store
+.env
+yarn.lock
+backend/package-lock.json
+backend/package.json
+backend/knexfile.js
+package-lock.json
+package.json
+backend/src/database
